@@ -1,0 +1,53 @@
+
+
+.all{
+    position: relative;
+    width: 1440px;
+    height: 2310px;
+
+    background: #F1F1F1;
+}
+
+header{
+    position: absolute;
+    width: 1440px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+
+    background: #AABBEE;
+}
+
+.logo{
+    position: absolute;
+    width: 149px;
+    height: 30px;
+    left: 143px;
+    top: 19px;
+}
+
+.logo_text{
+    position: absolute;
+    left: 9.93%;
+    right: 79.72%;
+    top: 29.69%;
+    bottom: 23.44%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.maintext{
+    position: absolute;
+    width: 1053px;
+    height: 1072px;
+    left: 193px;
+    top: 129px;
+}
+
